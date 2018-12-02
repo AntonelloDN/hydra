@@ -1,0 +1,12 @@
+### Description 
+In order to make the connection between ENVI_MET and Grasshopper possible you should check the quality of building shapes.
+ENVI_MET 4.4 does not support small cells with height equals to just one unit yet.
+This workflow let you debug your model to find not supported cells.
+
+This file has been submitted by [AntonelloDN](https://github.com/AntonelloDN)
+
+[Check out this example on Hydra!](http://hydrashare.github.io/hydra/viewer?owner=AntonelloDN&fork=hydra&id=Debug_Complex_Model_for_ENVI_MET)
+### Tags 
+DFExampleFiles, Dragonfly, ENVI_MET, Envimet, Modeling, Complex, Building, Cells, Fix, Check, float, overflow, Grasshopper
+### Thumbnail 
+![Screenshot](https://raw.githubusercontent.com/AntonelloDN/hydra/master/Debug_Complex_Model_for_ENVI_MET/thumbnail.png)
