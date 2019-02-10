@@ -1,5 +1,5 @@
 ### Description 
-This workflow let you create buildings with 3d roofs with Gismo to use in a ENVI_MET model. 3d buildings which come from OSM are often  not accurate - made by many nested breps - in this case you could modify them using Morphomesh before importing them to ENVI MET.
+This workflow let you create buildings with 3d roofs with Gismo to use in a ENVI_MET model. 3d buildings which come from OSM are made by many nested breps - in this case you could union them using Morphomesh before importing them to ENVI MET.
 
 Requirements:
 - Gismo 0.0.3 (https://github.com/stgeorges/gismo)
