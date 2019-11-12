@@ -1,7 +1,5 @@
 ### Description 
-In order to make the connection between ENVI_MET and Grasshopper possible you should check the quality of building shapes.
-ENVI_MET 4.4 does not support small cells with height equals to just one unit yet.
-This workflow let you debug your model to find not supported cells.
+In order to make the connection between ENVI_MET and Grasshopper possible you should check the quality of building shapes.This workflow show you how to check building envimet cells.
 
 This file has been submitted by [AntonelloDN](https://github.com/AntonelloDN)
 
