@@ -1,10 +1,7 @@
 ### Description 
 This example shows how create envimet model and how to use Using EPW file to feed simulation file.
 To run this file you need:
-- Rhino 6;
-- Dragonfly;
-- Ladybug;
-- Latest version of ENVI_MET.
+<ul><li>Rhino 6;</li><li>Dragonfly;</li><li>Ladybug;</li><li>Latest version of ENVI_MET.</li></ul>
 
 This file has been submitted by [AntonelloDN](https://github.com/AntonelloDN)
 
